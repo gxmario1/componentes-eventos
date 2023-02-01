@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/componentes-eventos/static/css/main.179da483.css",
+    "main.js": "/componentes-eventos/static/js/main.cfe15be0.js",
+    "index.html": "/componentes-eventos/index.html",
+    "main.179da483.css.map": "/componentes-eventos/static/css/main.179da483.css.map",
+    "main.cfe15be0.js.map": "/componentes-eventos/static/js/main.cfe15be0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.179da483.css",
+    "static/js/main.cfe15be0.js"
+  ]
+}
